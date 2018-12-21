@@ -1,0 +1,26 @@
+{
+  "name": "aditya007",
+  "version": "1.1.0",
+  "description": "A personal card for Aditya Tandon (@adityatandon007)",
+  "main": "index.js",
+  "bin": {
+    "aditya007": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adityatandon007/aditya007.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aditya Tandon <adityatandon007@gmail.com> (http://adityatandon007.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
