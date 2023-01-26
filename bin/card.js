@@ -16,7 +16,7 @@ const options = {
 const data = {
   name: chalk.white('Aditya Tandon /'),
   handle: chalk.cyan('adityatandon007'),
-  work: chalk.white('Frontend Developer at Modestreet Internet'),
+  work: chalk.white('Associate Frontend Engineer at Purple Style Labs'),
   github: chalk.cyan('https://github.com/adityatandon007'),
   linkedin: chalk.cyan('https://www.linkedin.com/in/adityatandon007'),
   web: chalk.cyan('http://adityatandon007.github.io'),
